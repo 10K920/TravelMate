@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "581676162935",
+    "firebase_url": "https://fpauthenticationstep.firebaseio.com",
+    "project_id": "fpauthenticationstep",
+    "storage_bucket": "fpauthenticationstep.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581676162935:android:1ef96293659fb269",
+        "android_client_info": {
+          "package_name": "com.example.fpauthenticationstep"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581676162935-lk4u1pi7msu5rbkj39amonhg9d89k1vs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fpauthenticationstep",
+            "certificate_hash": "3a2edc791dc436aea88e7c1b87ed01e305deb9f7"
+          }
+        },
+        {
+          "client_id": "581676162935-dfq7e1n03ig1tf5iitr0p3vmajve63oe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2NQlttq-rbSD8yRS0JhsoJdIKYYZlUow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581676162935-dfq7e1n03ig1tf5iitr0p3vmajve63oe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
